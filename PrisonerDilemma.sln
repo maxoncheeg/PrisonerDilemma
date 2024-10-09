@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrisonerDilemma", "PrisonerDilemma\PrisonerDilemma.csproj", "{C6442A9B-A163-4BDC-AC58-007595732BA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrisonerDilemma.Console", "PrisonerDilemma.Console\PrisonerDilemma.Console.csproj", "{CC363F4A-12BE-4889-B85D-88A7134C6217}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrisonerDilemma.Research", "PrisonerDilemma.Research\PrisonerDilemma.Research.csproj", "{151B007A-D484-4C6F-B82C-79841D8CC293}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6442A9B-A163-4BDC-AC58-007595732BA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6442A9B-A163-4BDC-AC58-007595732BA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6442A9B-A163-4BDC-AC58-007595732BA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6442A9B-A163-4BDC-AC58-007595732BA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC363F4A-12BE-4889-B85D-88A7134C6217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC363F4A-12BE-4889-B85D-88A7134C6217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC363F4A-12BE-4889-B85D-88A7134C6217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC363F4A-12BE-4889-B85D-88A7134C6217}.Release|Any CPU.Build.0 = Release|Any CPU
+		{151B007A-D484-4C6F-B82C-79841D8CC293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{151B007A-D484-4C6F-B82C-79841D8CC293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{151B007A-D484-4C6F-B82C-79841D8CC293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{151B007A-D484-4C6F-B82C-79841D8CC293}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
